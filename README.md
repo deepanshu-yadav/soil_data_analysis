@@ -1,7 +1,7 @@
 # soil_data_analysis
 Analysis of soil health card data
 
-The data has been scraped from [here] (https://soilhealth.dac.gov.in/HealthCard/HealthCard/state) .
+The data has been scraped from [here](https://soilhealth.dac.gov.in/HealthCard/HealthCard/state) .
 
 Contents :
 
